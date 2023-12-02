@@ -1,2 +1,1 @@
-# CustomYOLOv4Tiny-Enhanced
-Enhanced and optimized YOLO v4 tiny model for high-speed object detection. Tailored for modern needs with updated Roboflow api.
+A Google Colab notebook enhancing YOLO v4 tiny model training with updated methodologies and Roboflow integration by me. Ideal for those seeking efficient, streamlined object detection model training.
